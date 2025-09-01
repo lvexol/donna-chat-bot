@@ -1,4 +1,5 @@
-# CyberSentinel-Intel
+# flow-chat-bot
+## cyberSentinal-Intel
 
 this project was developed to suport me and keep me updated on the day today activities in the cyber relm 
 this includes researching on reddit and many more 
