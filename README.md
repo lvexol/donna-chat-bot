@@ -1,4 +1,7 @@
-# flow-chat-bot
+# donna-chat-bot
+## this is the chat bot that is like an assistant and that could help me focus on the things i need to do so it could be helpfull 
+- 6th sep 25 @ 8:45 research
+- 
 ## cyberSentinal-Intel
 
 this project was developed to suport me and keep me updated on the day today activities in the cyber relm 
